@@ -1,4 +1,4 @@
-# fedora-kinoite-oci-image
+# fedora-atomic-oci-images
 
 ## Introduction
 
